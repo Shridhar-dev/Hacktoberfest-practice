@@ -59,19 +59,19 @@ To start contributing, follow the below guidelines:
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/Projects-showcase.git
+git clone https://github.com/<your_user_name>/Hacktoberfest-practice.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Projects-showcase
+cd Hacktoberfest-practice
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Design-and-Code/Projects-showcase.git
+git remote add upstream https://github.com/Design-and-Code/Hacktoberfest-practice.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -119,7 +119,7 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15** Voila! You have made a PR to the Projects-showcase 💥 . Wait for your submission to be accepted and your PR to be merged.
+**15** Voila! You have made a PR to the Hacktoberfest-practice 💥 . Wait for your submission to be accepted and your PR to be merged.
 
   
 #### Note : 
@@ -134,9 +134,9 @@ git push -u origin <your_branch_name>
 <table>
   <tbody>
       
-  <td align="center"><a href="https://github.com/DevrajDC"><img alt="github profile" src="https://avatars.githubusercontent.com/u/65373279" width="130px;"><br><sub><b> Devraj Chatribin </b></sub></a><br><a href="https://github.com/Design-and-Code/Projects-showcase" title="Code"> UI  /  UX Designer</a></td> </a></td>
+  <td align="center"><a href="https://github.com/DevrajDC"><img alt="github profile" src="https://avatars.githubusercontent.com/u/65373279" width="130px;"><br><sub><b> Devraj Chatribin </b></sub></a><br><a href="https://github.com/Design-and-Code/Hacktoberfest-practice" title="Code"> UI  /  UX Designer</a></td> </a></td>
   
-  <td align="center"><a href="https://github.com/sakshamgurbhele"><img alt="github profile" src="https://avatars.githubusercontent.com/u/64558515" width="130px;"><br><sub><b> Saksham Gurbhele </b></sub></a><br><a href="https://github.com/Design-and-Code/Projects-showcase" title="Code"> Android Developer </a></td> </a></td>
+  <td align="center"><a href="https://github.com/sakshamgurbhele"><img alt="github profile" src="https://avatars.githubusercontent.com/u/64558515" width="130px;"><br><sub><b> Saksham Gurbhele </b></sub></a><br><a href="https://github.com/Design-and-Code/Hacktoberfest-practice" title="Code"> Android Developer </a></td> </a></td>
       
   </tbody>
 </table>
